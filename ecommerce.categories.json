@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Lemon",
+    "description": "Zesty and tangy lemons, versatile for cooking, baking, or making refreshing beverages.",
+    "price": 0.79,
+    "inStuck": false,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Lemon/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Milk",
+    "description": "Fresh and nutritious milk, a staple for various recipes and daily consumption.",
+    "price": 3.49,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Milk/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Mulberry",
+    "description": "Sweet and juicy mulberries, perfect for snacking or adding to desserts and cereals.",
+    "price": 4.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Mulberry/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Nescafe Coffee",
+    "description": "Quality coffee from Nescafe, available in various blends for a rich and satisfying cup.",
+    "price": 7.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Nescafe%20Coffee/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Potatoes",
+    "description": "Versatile and starchy potatoes, great for roasting, mashing, or as a side dish.",
+    "price": 2.29,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Potatoes/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Protein Powder",
+    "description": "Nutrient-packed protein powder, ideal for supplementing your diet with essential proteins.",
+    "price": 19.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Protein%20Powder/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Red Onions",
+    "description": "Flavorful and aromatic red onions, perfect for adding depth to your savory dishes.",
+    "price": 1.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Red%20Onions/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Rice",
+    "description": "High-quality rice, a staple for various cuisines and a versatile base for many dishes.",
+    "price": 5.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Rice/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Soft Drinks",
+    "description": "Assorted soft drinks in various flavors, perfect for refreshing beverages.",
+    "price": 1.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Soft%20Drinks/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Strawberry",
+    "description": "Sweet and succulent strawberries, great for snacking, desserts, or blending into smoothies.",
+    "price": 3.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Strawberry/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Tissue Paper Box",
+    "description": "Convenient tissue paper box for everyday use, providing soft and absorbent tissues.",
+    "price": 2.49,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Tissue%20Paper%20Box/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Water",
+    "description": "Pure and refreshing bottled water, essential for staying hydrated throughout the day.",
+    "price": 0.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/groceries/Water/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83d" } 
+  },
+  {
+    "name": "Decoration Swing",
+    "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+    "price": 59.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/home-decoration/Decoration%20Swing/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83e" } 
+  },
+  {
+    "name": "Family Tree Photo Frame",
+    "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+    "price": 29.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/home-decoration/Family%20Tree%20Photo%20Frame/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83e" } 
+  },
+  {
+    "name": "House Showpiece Plant",
+    "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    "price": 39.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/home-decoration/House%20Showpiece%20Plant/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83e" } 
+  },
+  {
+    "name": "Plant Pot",
+    "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+    "price": 14.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/home-decoration/Plant%20Pot/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83e" } 
+  },
+  {
+    "name": "Table Lamp",
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    "price": 49.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/home-decoration/Table%20Lamp/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83e" } 
+  },
+  {
+    "name": "Hand Blender",
+    "description": "The Hand Blender is a versatile kitchen appliance for blending, pureeing, and mixing. Its compact design and powerful motor make it a convenient tool for various recipes.",
+    "price": 34.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Hand%20Blender/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+  },
+  {
+    "name": "Ice Cube Tray",
+    "description": "The Ice Cube Tray is a simple and effective tool for making ice cubes at home. Its flexible design allows for easy ice removal, making it a must-have for your kitchen.",
+    "price": 5.99,
+    "inStuck": true,
+    "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/1.png",
+    "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+  }
+]

@@ -1,0 +1,202 @@
+[
+        {
+          "name": "Microwave Oven",
+          "description": "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+          "price": 89.99,
+          "inStuck": true,
+          "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Microwave%20Oven/1.png",
+          "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+        },
+        {
+          "name": "Mug Tree Stand",
+          "description": "The Mug Tree Stand is a stylish and space-saving solution for organizing your mugs. Keep your favorite mugs easily accessible and neatly displayed in your kitchen.",
+          "price": 15.99,
+          "inStuck": true,
+          "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Mug%20Tree%20Stand/1.png",
+          "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+        },
+        {
+          "name": "Pan",
+          "description": "The Pan is a versatile and essential cookware item for frying, sautéing, and cooking various dishes. Its non-stick coating ensures easy food release and cleanup.",
+          "price": 24.99,
+          "inStuck": true,
+          "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Pan/1.png",
+          "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+        },
+        {
+          "name": "Plate",
+          "description": "The Plate is a classic and essential dishware item for serving meals. Its durable and stylish design makes it suitable for everyday use or special occasions.",
+          "price": 3.99,
+          "inStuck": true,
+          "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Plate/1.png",
+          "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+        },
+        {
+          "name": "Red Tongs",
+          "description": "The Red Tongs are versatile kitchen tongs suitable for various cooking and serving tasks. Their vibrant color adds a pop of excitement to your kitchen utensils.",
+          "price": 6.99,
+          "inStuck": true,
+          "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Red%20Tongs/1.png",
+          "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+        },
+        {
+          "name": "Silver Pot With Glass Cap",
+          "description": "The Silver Pot with Glass Cap is a stylish and functional cookware item for boiling, simmering, and preparing delicious meals. Its glass cap allows you to monitor cooking progress.",
+          "price": 39.99,
+          "inStuck": true,
+          "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Silver%20Pot%20With%20Glass%20Cap/1.png",
+          "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+        },
+        {
+          "name": "Slotted Turner",
+          "description": "The Slotted Turner is a kitchen utensil designed for flipping and turning food items. Its slotted design allows excess liquid to drain, making it ideal for frying and sautéing.",
+          "price": 8.99,
+          "inStuck": true,
+          "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Slotted%20Turner/1.png",
+          "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+        },
+        {
+          "name": "Spice Rack",
+          "description": "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+          "price": 19.99,
+          "inStuck": true,
+          "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spice%20Rack/1.png",
+          "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+        },
+        {
+          "name": "Spoon",
+          "description": "The Spoon is a versatile kitchen utensil for stirring, serving, and tasting. Its ergonomic design and durable construction make it an essential tool for every kitchen.",
+          "price": 4.99,
+          "inStuck": true,
+          "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Spoon/1.png",
+          "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+        },
+        {
+          "name": "Tray",
+          "description": "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+          "price": 16.99,
+          "inStuck": true,
+          "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Tray/1.png",
+          "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+        },
+            {
+              "name": "Wooden Rolling Pin",
+              "description": "The Wooden Rolling Pin is a classic kitchen tool for rolling out dough for baking. Its smooth surface and sturdy handles make it easy to achieve uniform thickness.",
+              "price": 11.99,
+              "inStuck": true,
+              "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Wooden%20Rolling%20Pin/1.png",
+              "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+            },
+            {
+              "name": "Yellow Peeler",
+              "description": "The Yellow Peeler is a handy tool for peeling fruits and vegetables with ease. Its bright yellow color adds a cheerful touch to your kitchen gadgets.",
+              "price": 5.99,
+              "inStuck": true,
+              "imageUrl": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Yellow%20Peeler/1.png",
+              "categoryId": { "$oid": "670fe50e1db02da9798ae83f" } 
+            },
+            {
+              "name": "Apple MacBook Pro 14 Inch Space Grey",
+              "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+              "price": 1999.99,
+              "inStuck": true,
+              "imageUrl": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/1.png",
+              "categoryId": { "$oid": "670fe50e1db02da9798ae841" } 
+            },
+            {
+              "name": "Asus Zenbook Pro Dual Screen Laptop",
+              "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+              "price": 1799.99,
+              "inStuck": true,
+              "imageUrl": "https://cdn.dummyjson.com/products/images/laptops/Asus%20Zenbook%20Pro%20Dual%20Screen%20Laptop/1.png",
+              "categoryId": { "$oid": "670fe50e1db02da9798ae841" } 
+            },
+            {
+              "name": "Huawei Matebook X Pro",
+              "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+              "price": 1399.99,
+              "inStuck": true,
+              "imageUrl": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/1.png",
+              "categoryId": { "$oid": "670fe50e1db02da9798ae841" } 
+            },
+            {
+              "name": "Lenovo Yoga 920",
+              "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+              "price": 1099.99,
+              "inStuck": true,
+              "imageUrl": "https://cdn.dummyjson.com/products/images/laptops/Lenovo%20Yoga%20920/1.png",
+              "categoryId": { "$oid": "670fe50e1db02da9798ae841" } 
+            },
+            {
+              "name": "New DELL XPS 13 9300 Laptop",
+              "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+              "price": 1499.99,
+              "inStuck": true,
+              "imageUrl": "https://cdn.dummyjson.com/products/images/laptops/New%20DELL%20XPS%2013%209300%20Laptop/1.png",
+              "categoryId": { "$oid": "670fe50e1db02da9798ae841" } 
+            },
+            {
+              "name": "Blue & Black Check Shirt",
+              "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+              "price": 29.99,
+              "inStuck": true,
+              "imageUrl": "https://cdn.dummyjson.com/products/images/mens-shirts/Blue%20&%20Black%20Check%20Shirt/1.png",
+              "categoryId": { "$oid": "670fe50e1db02da9798ae843" } 
+            },
+            {
+              "name": "Gigabyte Aorus Men Tshirt",
+              "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+              "price": 24.99,
+              "inStuck": true,
+              "imageUrl": "https://cdn.dummyjson.com/products/images/mens-shirts/Gigabyte%20Aorus%20Men%20Tshirt/1.png",
+              "categoryId": { "$oid": "670fe50e1db02da9798ae843" } 
+            },
+            {
+              "name": "Man Plaid Shirt",
+              "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+              "price": 34.99,
+              "inStuck": true,
+              "imageUrl": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Plaid%20Shirt/1.png",
+              "categoryId": { "$oid": "670fe50e1db02da9798ae843" } 
+            },
+            {
+                "name": "Man Short Sleeve Shirt",
+                "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+                "price": 19.99,
+                "inStuck": true,
+                "imageUrl": "https://cdn.dummyjson.com/products/images/mens-shirts/Man%20Short%20Sleeve%20Shirt/1.png",
+                "categoryId": { "$oid": "670fe50e1db02da9798ae843" } 
+              },
+              {
+                "name": "Men Check Shirt",
+                "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+                "price": 27.99,
+                "inStuck": true,
+                "imageUrl": "https://cdn.dummyjson.com/products/images/mens-shirts/Men%20Check%20Shirt/1.png",
+                "categoryId": { "$oid": "670fe50e1db02da9798ae843" } 
+              },
+              {
+                "name": "Nike Air Jordan 1 Red And Black",
+                "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+                "price": 149.99,
+                "inStuck": true,
+                "imageUrl": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Air%20Jordan%201%20Red%20And%20Black/1.png",
+                "categoryId": { "$oid": "670fe50e1db02da9798ae845" } 
+              },
+              {
+                "name": "Nike Baseball Cleats",
+                "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+                "price": 79.99,
+                "inStuck": true,
+                "imageUrl": "https://cdn.dummyjson.com/products/images/mens-shoes/Nike%20Baseball%20Cleats/1.png",
+                "categoryId": { "$oid": "670fe50e1db02da9798ae845" } 
+              },
+              {
+                "name": "Puma Future Rider Trainers",
+                "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+                "price": 89.99,
+                "inStuck": true,
+                "imageUrl": "https://cdn.dummyjson.com/products/images/mens-shoes/Puma%20Future%20Rider%20Trainers/1.png",
+                "categoryId": { "$oid": "670fe50e1db02da9798ae845" } 
+              }
+]
