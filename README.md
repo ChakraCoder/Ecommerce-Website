@@ -53,6 +53,6 @@ SECRET_KEY = "Secret Key For JWT";
 
 ## Screenshots
 
-<img src="./screenshots//home.png" width="400" height="420">
-<img src="./screenshots//products.png" width="400" height="420">
-<img src="./screenshots//register.png" style="margin=auto" width="400" height="420">
+<img src="./screenshots//home.png" height="420">
+<img src="./screenshots//products.png" height="420">
+<img src="./screenshots//register.png" height="420">
