@@ -2,6 +2,10 @@
 
 Mern Stack Ecommerce Application
 
+## Demo Link
+
+https://yagnang-ecommerce.netlify.app/
+
 ## Table Of Contents:
 
 - [About](#about-the-app)
@@ -9,7 +13,7 @@ Mern Stack Ecommerce Application
 - [Setup](#setup)
 - [Screenshots](#screenshots)
 
-## Aboout The App:
+## About The App:
 
 An ecommerce app with mern stack technology.
 With features in front-end like products page with filtering based on category, user cart, login and register page and etc.
